@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fw5/JAI7k9GaQ1rdtcBqQclLMyPuO9JMdbQEP9HJS78Z63LZJwY7G+ZCl4nIUqY8rPyuy+X/sMeVspGiNXlRIg==",
+  "success": true,
+  "projectFilePath": "/Users/okerajohnson/Csharp-x-Selenium/Selenium_Automation.csproj",
+  "expectedPackageFiles": [
+    "/Users/okerajohnson/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/okerajohnson/.nuget/packages/selenium.webdriver/4.4.0/selenium.webdriver.4.4.0.nupkg.sha512",
+    "/Users/okerajohnson/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.28/microsoft.netcore.app.host.osx-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
